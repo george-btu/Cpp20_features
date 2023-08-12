@@ -1,4 +1,4 @@
-![image](https://github.com/george-btu/Cpp20_features/assets/44229457/2c263b05-c5dd-4f19-87dc-d1b7511d7b6d)![image](https://github.com/george-btu/Cpp20_features/assets/44229457/87b14497-ae7f-4485-bb68-dc5eebeedc55)![image](https://github.com/george-btu/Cpp20_features/assets/44229457/90db0102-4ab6-42a1-89b1-524a783e7530)# Cpp20_features
+# Cpp20_features
 This repo is about the new C++ standaard (C++20). It gives some demos on major C++ additions including Modules, ranges, STL algos, and many other features.
 
 **Modules rather than Header files**
