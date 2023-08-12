@@ -14,7 +14,7 @@ This repo is about the new C++ standaard (C++20). It gives some demos on major C
 		○ Syntaxt: 
 			§ the keyword 'module' is used to define a module
 			§ The keyword 'import' is used to bring in dependencies
-      § The keyword 'export; is used to declare symbols that should be accessible to other modules
+                   § The keyword 'export; is used to declare symbols that should be accessible to other modules
 
       In the given Demo, we give two sample examples. the first is just a simple module interface (with implementation) Example.ixx containing a Namespace with two functionalities.
        - The first is defined to be used internally  in the Namespace
