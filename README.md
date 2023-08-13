@@ -27,5 +27,11 @@ This repo is about the new C++ standaard (C++20). It gives some demos on major C
       We define a general Module for Shapes (BasicPlane.ixx), e.g., Point, Rectangle ... etc. Each of these shapes is defined as a partion of the this module. Here the naming convension of the partions files is crucial for the compiler: In our example 
       1. BasicPlane.Figures-Point.ixx is the partion module that defines the Point structure and modify this type to be exported to other modules or APIs
       2. BasicPlane.Figures-Rectangle.ixx: The interface module for defining the Rectangle structure together with its basic methods, e.g., Area. this Partion module import the Point partionbe used to define the Rectangle structure
+
+
+      Improvements for Lambda functions:
+      1. Now it is allowed to use a variable capture list, exactly as in Java. The syntax including the capture list is as follows:
+      type lmabda_name = [capturte list](lambda args ...) {body};
+      2. It is allowed to use the sizeof operator with a lambda expression to determine the size of the lambda's type
       
 
