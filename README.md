@@ -33,5 +33,8 @@ This repo is about the new C++ standaard (C++20). It gives some demos on major C
       1. Now it is allowed to use a variable capture list, exactly as in Java. The syntax including the capture list is as follows:
       type lmabda_name = [capturte list](lambda args ...) {body};
       2. It is allowed to use the sizeof operator with a lambda expression to determine the size of the lambda's type
+
+
+      Introducing the concept of "Concepts" for template functions. A Concept allows you to specify requirements on template parameters, making your template code more readable and allowing for better error diagnostics. For searching a value in a container, e.g., vector, we have to use find(value) function for instance in list<int>, but for a vector container, we have to use the std::find(iterator, value). Thus, to use safe search,  I'll use a concept to ensure that the container type passed to the function must have a member function called find().
       
 
