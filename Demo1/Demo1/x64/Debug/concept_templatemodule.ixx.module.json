@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Concept_TemplateModule.ixx.obj",
+            "outputs": [
+                "C:\\Users\\George\\Dropbox\\C++\\Modern1\\Demo1\\Demo1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\George\\Dropbox\\C++\\Modern1\\Demo1\\Demo1\\x64\\Debug\\Concept_TemplateModule.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Concept_TemplateModule",
+                    "source-path": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\concept_templatemodule.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

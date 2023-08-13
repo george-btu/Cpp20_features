@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\example.ixx",
+        "ProvidedModule": "Example",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,28 @@
+﻿  Scanning sources for module dependencies...
+  BasicPlane.Figures.ixx
+  BasicPlane.Figures-Point.ixx
+  BasicPlane.Figures-Rectangle.ixx
+  Example.ixx
+  Concept_TemplateModule.ixx
+  Lambda_newFeatures.ixx
+  Compiling...
+  Example.ixx
+  BasicPlane.Figures-Point.ixx
+  Concept_TemplateModule.ixx
+  Lambda_newFeatures.ixx
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Lambda_newFeatures.ixx(7,9): warning C5244: '#include <iostream>' in the purview of module 'Lambda_newFeatures' appears erroneous.  Consider moving that directive before the module declaration, or replace the textual inclusion with 'import <iostream>;'.
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Lambda_newFeatures.ixx(6,8): message : see module 'Lambda_newFeatures' declaration
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(9,9): warning C5244: '#include <algorithm>' in the purview of module 'Concept_TemplateModule' appears erroneous.  Consider moving that directive before the module declaration, or replace the textual inclusion with 'import <algorithm>;'.
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(7,8): message : see module 'Concept_TemplateModule' declaration
+  BasicPlane.Figures-Rectangle.ixx
+  BasicPlane.Figures.ixx
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(10,9): warning C5244: '#include <vector>' in the purview of module 'Concept_TemplateModule' appears erroneous.  Consider moving that directive before the module declaration, or replace the textual inclusion with 'import <vector>;'.
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(7,8): message : see module 'Concept_TemplateModule' declaration
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(11,9): warning C5244: '#include <list>' in the purview of module 'Concept_TemplateModule' appears erroneous.  Consider moving that directive before the module declaration, or replace the textual inclusion with 'import <list>;'.
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(7,8): message : see module 'Concept_TemplateModule' declaration
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(12,9): warning C5244: '#include <iostream>' in the purview of module 'Concept_TemplateModule' appears erroneous.  Consider moving that directive before the module declaration, or replace the textual inclusion with 'import <iostream>;'.
+C:\Users\George\Dropbox\C++\Modern1\Demo1\Demo1\Concept_TemplateModule.ixx(7,8): message : see module 'Concept_TemplateModule' declaration
+  BasicPlane.Figures-Rectangle.cpp
+  MyProgram.cpp
+  Generating Code...
+  Demo1.vcxproj -> C:\Users\George\Dropbox\C++\Modern1\Demo1\x64\Debug\Demo1.exe

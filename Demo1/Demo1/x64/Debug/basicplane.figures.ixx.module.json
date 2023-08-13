@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\BasicPlane.Figures.ixx.obj",
+            "outputs": [
+                "C:\\Users\\George\\Dropbox\\C++\\Modern1\\Demo1\\Demo1\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\George\\Dropbox\\C++\\Modern1\\Demo1\\Demo1\\x64\\Debug\\BasicPlane.Figures.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "BasicPlane.Figures",
+                    "source-path": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\basicplane.figures.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "BasicPlane.Figures:Point"
+                },
+                {
+                    "logical-name": "BasicPlane.Figures:Rectangle"
+                }
+            ]
+        }
+    ]
+}

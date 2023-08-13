@@ -1,0 +1,11 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\basicplane.figures-rectangle.ixx",
+        "ProvidedModule": "BasicPlane.Figures:Rectangle",
+        "ImportedModules": [
+            "BasicPlane.Figures:Point"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

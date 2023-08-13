@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\basicplane.figures-rectangle.ixx",
+        "ProvidedModule": "BasicPlane.Figures:Rectangle",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "BasicPlane.Figures:Point",
+                "BMI": "C:\\Users\\George\\Dropbox\\C++\\Modern1\\Demo1\\Demo1\\x64\\Debug\\BasicPlane.Figures-Point.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

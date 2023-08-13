@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\george\\dropbox\\c++\\modern1\\demo1\\demo1\\concept_templatemodule.ixx",
+        "ProvidedModule": "Concept_TemplateModule",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
